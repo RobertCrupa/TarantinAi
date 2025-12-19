@@ -23,7 +23,7 @@ RUN echo "Python version:" \
     && echo "UV version:" \
     && uv --version \
     && echo "Installing dependencies:" \
-    && uv pip install -r requirements.txt \
+    && uv pip install --system -r requirements.txt \
     && echo "All installed Python packages:" \
     && uv pip freeze
 
