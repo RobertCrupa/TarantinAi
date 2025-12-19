@@ -1,6 +1,6 @@
 {
     "actorSpecification": 1,
-    "name": "my-actor",
+    "name": "TarantinAi",
     "title": "Python LangGraph Agent",
     "description": "LangGraph agent in python",
     "version": "0.0",
