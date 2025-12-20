@@ -1,4 +1,4 @@
-name: Test and build latest version
+name: Build latest version
 on:
   push:
     branches:
